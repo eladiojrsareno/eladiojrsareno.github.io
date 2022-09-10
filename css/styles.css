@@ -433,7 +433,13 @@ footer {
     margin: 0 0 15px 0
 }
 
-.vtimeline-content p {
+.vtimeline-content h5 {
+    font-size: 1em;
+    font-weight: bold;
+    margin: 0 0 5px 0
+}
+
+.vtimeline-content p, .vtimeline-content li {
     color: #74808a;
     font-size: 0.9em;
     margin: 0
@@ -521,6 +527,45 @@ footer {
 
 .education-block ul {
     padding: 0 0 0 15px
+}
+
+#certificate {
+    padding: 50px 15px 20px 15px;
+    text-align: center;
+    border-bottom: 1px solid #dcd9d9;
+}
+
+#certificate h2 {
+    color: #374054;
+    margin-bottom: 50px
+}
+
+#certificate img {
+    width: 120px;
+    height: 120p;
+}
+
+.certificate-block {
+    margin-bottom: 20px;
+    padding: 15px;
+    max-width: 1000px;
+}
+
+.certificate-block h3 {
+    margin: 0;
+}
+
+#links {
+    padding: 50px 15px;
+    border-bottom: 1px solid #dcd9d9;
+    text-align: center;
+}
+
+#links .links-content {
+    background: #fff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 1px solid #dcd9d9;
 }
 
 #projects {
