@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-seo-tag
+title: "Eladio Sareno Jr"
+tagline: "Portfolio"
+description: "An experienced Software Developer, AWS Solution Architect, AWS Developer, and AWS Cloud Practitioner Certified"
